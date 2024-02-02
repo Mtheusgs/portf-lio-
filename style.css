@@ -23,7 +23,7 @@ body{
     color: var(--cor-terciaria);
 }  
 .apresentacao{ 
-    margin: 5% 15%;
+    margin: 5%  15%;
     display: flex; 
     align-items: center;
     justify-content: space-between; 
@@ -107,4 +107,12 @@ img{
 .linkA{
     text-decoration: none; 
     color: var(--cor-terciaria);
-}
+}  
+.apresentacao1{ 
+    margin: 5%  15%;
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;  
+    height: 70vh;
+
+}  
